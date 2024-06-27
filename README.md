@@ -5,7 +5,7 @@
 With 3 years of experience in building robust and scalable solutions. My main stack includes **Java, Spring Boot, Docker, Azure Dev, GCP, PubSub, RabbitMQ, Redis, PostgreSQL, BigQuery, and ElasticSearch**.
 
 ### 🚀 Notable Projects:
-- **Centralized Stock for Multiple E-commerce Companies**: A comprehensive solution for managing inventories across multiple companies within an e-commerce platform.
+- **Centralized Stock**: A comprehensive solution for managing inventories across multiple companies within an e-commerce platform.
 
 ### 🎯 Goals:
 - **Professional Growth**: I am focused on expanding my technology stack and continuously learning new tools and methodologies.
