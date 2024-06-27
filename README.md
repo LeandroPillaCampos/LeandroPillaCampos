@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hi! I'm Leandro Pilla Campos
 
-<!--
-**LeandroPillaCampos/LeandroPillaCampos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Backend Software Developer
 
-Here are some ideas to get you started:
+With 3 years of experience in building robust and scalable solutions. My main stack includes **Java, Spring Boot, Docker, Azure Dev, GCP, PubSub, RabbitMQ, Redis, PostgreSQL, BigQuery, and ElasticSearch**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Notable Projects:
+- **Centralized Stock for Multiple E-commerce Companies**: A comprehensive solution for managing inventories across multiple companies within an e-commerce platform.
+
+### 🎯 Goals:
+- **Professional Growth**: I am focused on expanding my technology stack and continuously learning new tools and methodologies.
+- **Quality and Architecture**: I am passionate about creating clean and maintainable architectures, and I strive to write high-quality code.
+
+💡 Always looking for new challenges and opportunities to collaborate on innovative projects.
